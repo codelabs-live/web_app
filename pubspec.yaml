@@ -1,7 +1,9 @@
 name: web_app
 description: A new Flutter package for responsive design.
 version: 0.0.1
-homepage:
+authors:
+  - Kamlesh Kumar
+homepage: https://github.com/codelabs-live/web_app
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
